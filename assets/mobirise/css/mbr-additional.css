@@ -1244,6 +1244,10 @@ body {
 .cid-qBUUNZOQPI .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qBUUNZOQPI .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qBUUNZOQPI .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qBUUNZOQPI .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qBUUNZOQPI .collapsed .navbar-collapse.show .navbar-buttons {
   display: flex;
@@ -1346,6 +1350,10 @@ body {
   .cid-qBUUNZOQPI .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-qBUUNZOQPI .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-qBUUNZOQPI .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qBUUNZOQPI .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-qBUUNZOQPI .navbar-collapse.collapsing .navbar-buttons,
   .cid-qBUUNZOQPI .navbar-collapse.show .navbar-buttons {
@@ -2343,6 +2351,10 @@ body {
 .cid-qBUUNZOQPI .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qBUUNZOQPI .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qBUUNZOQPI .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qBUUNZOQPI .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qBUUNZOQPI .collapsed .navbar-collapse.show .navbar-buttons {
   display: flex;
@@ -2445,6 +2457,10 @@ body {
   .cid-qBUUNZOQPI .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-qBUUNZOQPI .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-qBUUNZOQPI .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qBUUNZOQPI .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-qBUUNZOQPI .navbar-collapse.collapsing .navbar-buttons,
   .cid-qBUUNZOQPI .navbar-collapse.show .navbar-buttons {
@@ -2932,6 +2948,10 @@ body {
 .cid-qBUUNZOQPI .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qBUUNZOQPI .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qBUUNZOQPI .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qBUUNZOQPI .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qBUUNZOQPI .collapsed .navbar-collapse.show .navbar-buttons {
   display: flex;
@@ -3034,6 +3054,10 @@ body {
   .cid-qBUUNZOQPI .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-qBUUNZOQPI .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-qBUUNZOQPI .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qBUUNZOQPI .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-qBUUNZOQPI .navbar-collapse.collapsing .navbar-buttons,
   .cid-qBUUNZOQPI .navbar-collapse.show .navbar-buttons {
@@ -3664,6 +3688,10 @@ body {
 .cid-qBUUNZOQPI .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qBUUNZOQPI .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qBUUNZOQPI .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qBUUNZOQPI .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qBUUNZOQPI .collapsed .navbar-collapse.show .navbar-buttons {
   display: flex;
@@ -3766,6 +3794,10 @@ body {
   .cid-qBUUNZOQPI .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-qBUUNZOQPI .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-qBUUNZOQPI .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qBUUNZOQPI .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-qBUUNZOQPI .navbar-collapse.collapsing .navbar-buttons,
   .cid-qBUUNZOQPI .navbar-collapse.show .navbar-buttons {
