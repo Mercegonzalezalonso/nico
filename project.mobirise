@@ -1257,7 +1257,7 @@
         },
         {
           "_params": {
-            "token": "",
+            "token": "1646612043.727bfe1.c8a3b8ea237a4b56a683f38e3265282f",
             "showTitle": true,
             "layoutGridRadio": true,
             "imagesPerRowGrid": 4,
@@ -1278,7 +1278,7 @@
             "overlayOpacity": 0.6
           },
           "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"909254099178877305_1646612043\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
           "alias": "instagram-feed",
