@@ -2560,14 +2560,15 @@ body {
   color: initial;
 }
 .cid-qCuhzPzBwi {
-  background-color: #4284df;
-  background: linear-gradient(90deg, #4284df, #000000);
+  padding-top: 160px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/captura-de-pantalla-2017-12-05-a-las-11.21.12-2-1104x782.png");
 }
 .cid-qCuhzPzBwi .mbr-section-text {
   word-break: break-word;
 }
 .cid-qCuhzPzBwi .mbr-overlay {
-  background: linear-gradient(90deg, #21b968, #1ec5bf);
+  background: linear-gradient(90deg, #4284df, #1ec5bf);
 }
 @media (min-width: 992px) {
   .cid-qCuhzPzBwi .mbr-figure {
@@ -2582,6 +2583,18 @@ body {
 @media (max-width: 767px) {
   .cid-qCuhzPzBwi .mbr-text {
     text-align: center;
+  }
+}
+.cid-qCVq3ne5ai {
+  background: #ffffff;
+}
+.cid-qCVq3ne5ai .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qCVq3ne5ai .video-block {
+    width: 100% !important;
   }
 }
 .cid-qCuic3QYCa {
