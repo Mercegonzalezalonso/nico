@@ -518,6 +518,12 @@
 #dropdown-menu-p .navbar-toggler {
   color: #000000;
 }
+#content5-y P {
+  text-align: center;
+}
+#content5-y .mbr-section-title {
+  text-align: center;
+}
 #dropdown-menu-q .hide-buttons [data-button] {
   display: none !important;
 }
