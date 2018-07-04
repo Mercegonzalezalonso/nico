@@ -238,6 +238,9 @@
 #dropdown-menu-b .navbar-toggler {
   color: #000000;
 }
+#content4-1n P {
+  text-align: center;
+}
 #dropdown-menu-c .hide-buttons [data-button] {
   display: none !important;
 }
