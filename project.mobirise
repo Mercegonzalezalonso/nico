@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PHSalamanca -04",
-    "currentPage": "index.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 65,
+    "uniqCompNum": 66,
     "versionPublish": "4.7.8",
     "favicon": "@PROJECT_PATH@/assets/images/logo-p-2.h-f.a.-salamanca-128x128.png",
     "noImageResize": "",
@@ -1650,35 +1650,28 @@
           "_anchor": "dropdown-menu-9"
         },
         {
-          "_inherit": "header1",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false,
-            "contentAlign": "right",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1440x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
+            "showText": true
           },
-          "title": "Programas y servicios",
-          "text": "proyecto hombre&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=Sb9Vob-dNOI",
+              "autoplay": "on",
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
           "alias": "purity/components",
           "_tags": [
             "Tema"
           ],
-          "_name": "header2",
-          "_anchor": "header2-1b"
+          "_name": "video1",
+          "_anchor": "video1-1t"
         },
         {
           "_params": {
