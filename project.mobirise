@@ -18,7 +18,7 @@
     "google-analytics": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "gdpr": "",
-    "siteUrl": "undefined",
+    "siteUrl": "",
     "snow": "",
     "screenshot": "screenshot.png",
     "mcShopcart": {
@@ -33,7 +33,10 @@
       "counterColor": "#FFFFFF",
       "counterBack": "#F97352",
       "checkoutButton": "Total"
-    }
+    },
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "index.html": {
